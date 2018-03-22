@@ -1,0 +1,11 @@
+name: Programming Skills
+title: Software development
+source:
+  - name: [Clojure, Java, Python]
+    stars: 4
+
+  - name: [Kafka, Storm, Flink]
+    stars: 4
+
+  - name: [Javascript, React, Angular]
+    stars: 3

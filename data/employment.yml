@@ -1,0 +1,26 @@
+name: Employment
+source:
+  - prof: Distributed Systems Developer
+    place: Toulouse, France
+    time: 2017 to Present
+    description: Java and "Big Data" at MonkeyPatch.io
+
+  - prof: Full Stack Developer
+    place: Toulouse, France
+    time: 2016 to 2017
+    description: Java, Angular and Android at DocDoku.
+
+  - prof: Full Stack Developer
+    place: Toulouse, France
+    time: 2013 to 2016
+    description: Clojure and "Big Data" at Datasio.
+
+  - prof: Back End Developer
+    place: Toulouse, France
+    time: 2012 to 2013
+    description: Python APIs at Adaptive.
+
+  - prof: Mobile Developer
+    place: Toulouse, France
+    time: 2011 to 2012
+    description: Android and iOS at Aeon Consulting.

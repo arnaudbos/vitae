@@ -1,0 +1,53 @@
+baseurl = "http://www.arnaudbos.com/"
+languageCode = "en-US"
+title = "Arnaud Bos"
+# Enable Google Analytics by entering your tracking code
+# googleAnalytics = ""
+theme = "hugo-vitae"
+
+[params]
+  author = "Arnaud Bos"
+  title = "Arnaud Bos' Resume"
+  description = "Arnaud Bos' Static Resume"
+  avatar = "profile.png"
+  email = "mail@arnaudbos.com"
+  email_full = "mailto:mail@arnaudbos.com"
+  website = "arnaudbos.com"
+  website_full = "https://www.arnaudbos.com/"
+  github = "arnaudbos"
+  twitter = "arnaud_bos"
+  tel = "+33 6 51 23 41 07"
+  tel_full = "+33651234107"
+  google_maps = "https://www.google.fr/maps/place/+31450+Montgiscard"
+  city = "Montgiscard"
+  country = "France"
+
+  # Custom assets can be linked with their paths relative to static/
+  custom_css = []
+
+## Main Menu
+[[menu.main]]
+  name = "blog"
+  weight = 100
+  identifier = "blog"
+  url = "http://i-rant.arnaudbos.com/"
+[[menu.main]]
+  name = "projects"
+  identifier = "projects"
+  weight = 200
+  url = "http://side-effects.arnaudbos.com/"
+[[menu.main]]
+  name = "talks"
+  identifier = "talks"
+  weight = 300
+  url = "http://talks.arnaudbos.com/"
+[[menu.main]]
+  name = "level-up"
+  identifier = "level-up"
+  weight = 400
+  url = "http://level-up.arnaudbos.com/"
+[[menu.main]]
+  name = "resume"
+  identifier = "resume"
+  weight = 500
+  url = "http://vitae.arnaudbos.com/"
