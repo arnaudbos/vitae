@@ -1,9 +1,9 @@
 name: Employment
 source:
-  - prof: Distributed Systems Developer
+  - prof: Backend Developer
     place: Toulouse, France
     time: 2017 to Present
-    description: Java and "Big Data" at MonkeyPatch.io
+    description: Microservices, "Big Data" and Dist Sys at MonkeyPatch.io
 
   - prof: Full Stack Developer
     place: Toulouse, France
