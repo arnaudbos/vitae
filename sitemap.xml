@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://vitae.arnaudbos.com/</loc>
+    <loc>https://vitae.arnaudbos.com/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://vitae.arnaudbos.com/categories/</loc>
+    <loc>https://vitae.arnaudbos.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://vitae.arnaudbos.com/tags/</loc>
+    <loc>https://vitae.arnaudbos.com/tags/</loc>
     <priority>0</priority>
   </url>
   
